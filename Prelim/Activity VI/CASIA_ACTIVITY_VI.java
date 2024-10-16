@@ -3,9 +3,9 @@ import java.util.Scanner;
 class CASIA_ACTIVITY_VI {
      public static void main(String[] args){
         Scanner jannpaul = new Scanner(System.in);
-        System.out.println(x:"Enter the first number");
+        System.out.println("Enter the first number");
         int d = jannpaul.nextInt();
-        System.out.println(x:"Enter the first number");
+        System.out.println("Enter the first number");
         int e = jannpaul.nextInt();
 
         int sum = d + e;
