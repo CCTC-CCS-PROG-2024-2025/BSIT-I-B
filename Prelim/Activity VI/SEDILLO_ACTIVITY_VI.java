@@ -3,9 +3,9 @@ import java.util.Scanner;
 class SEDILLO_ACTIVITY_VI {
      public static void main(String[] args){
         Scanner jave = new Scanner(System.in);
-        System.out.println(x:"Enter the first number");
+        System.out.println("Enter the first number");
         int d = jave.nextInt();
-        System.out.println(x:"Enter the first number");
+        System.out.println("Enter the first number");
         int e = jave.nextInt();
 
         int sum = d + e;
