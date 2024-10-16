@@ -1,4 +1,4 @@
- class ANAGAN_ACTIVITY_III {
+ class AGANAN_ACTIVITY_III {
     public static void main(String[] args) {
     String name = "AGANAN";
     int age = 18;
