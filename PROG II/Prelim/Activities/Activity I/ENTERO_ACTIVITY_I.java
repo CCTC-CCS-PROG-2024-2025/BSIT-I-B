@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ENTERO_ACTIVITY_I_ACTIVITY_I {
+class ENTERO_ACTIVITY_I {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] name = new String [5];
