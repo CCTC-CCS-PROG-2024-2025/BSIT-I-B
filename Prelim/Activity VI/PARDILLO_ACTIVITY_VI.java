@@ -1,20 +1,18 @@
-import java.util.scanner;
+import java.util.Scanner;
 
- class PARDILLO {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println(x:"Enter the first number:");
-        int num5 = sc.nextInt();
-        System.out.println(x:"Enter the first number:");
-        int num6 = sc.nextInt();
-
-        int sum = num5 + num6;
-        int diff = num5 + num6;
-        int prod = num5 + num6;
-
-        System.out.println(sum);
-        System.out.println(diff);
-        System.out.println(prod);
-
+class PARDILLO_ACTIVITY_VI{
+    public static void main (String[]args){
+        Scanner shiid = new Scanner (System.in);
+        System.out.println("enter the first number:");
+        int c =  shiid.nextInt();
+        System.out.println("enter the second number:");
+        int z =  shiid.nextInt();
+        
+        int hoy = c + z;
+        int hey = c - z;
+        int hi = c * z;
+        System.out.println(hoy);
+        System.out.println(hey);
+        System.out.println(hi);
     }
 }
