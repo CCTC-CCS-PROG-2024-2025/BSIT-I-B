@@ -1,6 +1,6 @@
-public class NARVASA_ACTIVITY_III {
+public class PARDILLO_ACTIVITY_III {
     public static void main (String[]args){
-        String name = "VANJO";
+        String name = "SIGFRED";
         int age = 21;
         double height = 172.72;
         float weight = 54f;
