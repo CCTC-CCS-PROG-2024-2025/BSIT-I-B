@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GUTANG_ACTIVITY_VI {
+public class GUTANG_ACTIVITY_IV {
 
     public static void main(String[] args) {
 
