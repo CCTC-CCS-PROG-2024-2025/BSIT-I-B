@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class GESITE_ACTIVITY_IV{
+class PARDILLO_ACTIVITY_IV{
     public static void main(String[] args) {
         Scanner sc=new Scanner (System.in);
         System.out.println("enter a non negative integer");
