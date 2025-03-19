@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FeetToInchesConverter {
+public class TEJANO_ACTIVITY_II {
     // Method to convert feet to inches
     public static int convertToInches(int feet) {
         return feet * 12;
