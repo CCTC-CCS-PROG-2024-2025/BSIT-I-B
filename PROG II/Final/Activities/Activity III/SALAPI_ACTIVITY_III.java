@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class SALAPI_ACTIVITY_III {
-    public static double celsiusToFahrenheit(double celsius) {
+    class SALAPI_ACTIVITY_III {
+     static double celsiusToFahrenheit(double celsius) {
         return (celsius * 9/5) + 32;
     }
 
@@ -14,6 +14,5 @@ public class SALAPI_ACTIVITY_III {
         double fahrenheit = celsiusToFahrenheit(celsius);
         System.out.println("Temperature in Fahrenheit: " + fahrenheit);
 
-        sc.close();
     }
 }
