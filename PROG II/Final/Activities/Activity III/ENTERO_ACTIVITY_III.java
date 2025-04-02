@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ENTERO_ACTIVITY_III {
     public static double celsiusToFahrenheit(double celsius) {
-        return (celsius * 9.0 / 5.0) + 32;
+        return (celsius * 9/5) + 32;
     }
 
     public static void main(String[] args) {
