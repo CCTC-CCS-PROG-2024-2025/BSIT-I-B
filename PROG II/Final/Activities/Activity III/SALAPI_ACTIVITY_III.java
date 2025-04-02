@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-    class SALAPI_ACTIVITY_III {
-     static double celsiusToFahrenheit(double celsius) {
+class SALAPI_ACTIVITY_III {
+    static double celsiusToFahrenheit(double celsius) {
         return (celsius * 9/5) + 32;
     }
 
